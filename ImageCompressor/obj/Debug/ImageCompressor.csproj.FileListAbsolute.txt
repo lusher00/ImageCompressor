@@ -1,0 +1,9 @@
+\\mac\home\documents\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe.config
+\\mac\home\documents\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe
+\\mac\home\documents\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.pdb
+\\mac\home\documents\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csprojResolveAssemblyReference.cache
+\\mac\home\documents\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.Properties.Resources.resources
+\\mac\home\documents\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.GenerateResource.Cache
+\\mac\home\documents\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.exe
+\\mac\home\documents\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.pdb
+\\mac\home\documents\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.Form1.resources
